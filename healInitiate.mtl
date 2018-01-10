@@ -1,0 +1,30 @@
+# MTL
+
+newmtl head_mtl
+	map_Kd healInitiate_head.png
+
+
+newmtl body_mtl
+	map_Kd healInitiate_body.png
+
+
+newmtl makeup_mtl
+	map_Kd healInitiate_makeup.png
+
+
+newmtl mouth_mtl
+	map_Kd healInitiate_mouth.png
+
+
+newmtl crown_mtl
+	map_Kd healInitiate_crown.png
+
+
+newmtl eyes_mtl
+	map_Kd healInitiate_eyes.png
+
+
+newmtl hands_mtl
+	map_Kd healInitiate_hands.png
+
+
